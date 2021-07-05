@@ -2,8 +2,10 @@
 - 🔭 Я в поиске интересных предложений
 - 🌱 Изучаю React JS, Redux, Node JS, Express.js.
 - 📫 Моя почта: lian7968@gmail.com
-- 😄 Мой телеграмм: http://t.me/Chak_Liana
-![CodeWars](https://www.codewars.com/users/lianaChak)
+
+- 😄 Мой телеграмм: http://t.me/Chak_Liana 
+ 
+- ![CodeWars](https://www.codewars.com/users/lianaChak/badges/large)
 ### Стэк технологий который я использовала
 [![Git](https://shields.io/badge/-Git-f0efe7?logo=git&style=for-the-badge)](https://git-scm.com/)
 [![HTML](https://shields.io/badge/-HTML5-E34F26?logo=html5&style=for-the-badge&logoColor=fff)](https://html5book.ru/html-html5/)
